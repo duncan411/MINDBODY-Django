@@ -17,4 +17,4 @@ MAIL_SERVER_PASS = ""
 MAIL_SERVER_ADMIN = ''  #email address of mail administrator
 
 
-APPLICATION_SECRET = ""
+APPLICATION_SECRET = "asd;kjhfkasjdhfkjsahdfkjhsadfkjhaskjdfhkjsahfdkajshfkjhsfdkjsafdhkjasdhfkjahsdfkj"
