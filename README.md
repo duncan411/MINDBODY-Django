@@ -1,5 +1,5 @@
-# MINDBODY Django Demo
-A demonstration showing how to build an integration with the MINDBODY SOAP API using Python 3 and Django 1.8.  I did this in my spare time, so bugs are likely.  I'll try to fix them as I find them.
+# Shypy
+A demonstration showing how to build an integration with the FISH SOAP API using Python 3 and Django 1.8.  I did this in my spare time, so bugs are likely.  I'll try to fix them as I find them.
 
 https://mbodjango.herokuapp.com
 
@@ -37,7 +37,7 @@ SOURCEPASS = 'yoursourcepass'  #SourceName Password to be used in all API calls
 USERNAME = 'youruser'  
 USERPASS = 'yourpass'  # staff credentials, etc
 
-# SiteIDs to be used in all API Calls - should ALWAYS match for SourceCredentials and UserCredentials nodes.  If you are new to the MINDBODY API, you should probably use site ID -99 until you have everything coded the way you like it.  Otherwise, charges could be incurred.
+# SiteIDs to be used in all API Calls - should ALWAYS match for SourceCredentials and UserCredentials nodes.  If you are new to the FISH API, you should probably use site ID -99 until you have everything coded the way you like it.  Otherwise, charges could be incurred.
 SITEIDs = []
 
 
